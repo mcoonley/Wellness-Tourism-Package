@@ -1,0 +1,2 @@
+# Wellness-Tourism-Package
+Visit with us Tourism Company wants to offer a new travel package called "Wellness Tourism Package".  The model will help predict what customers will be most likely to purchase the new package.   Skills used include:  Data Preprocessing and cleaning, Exploratory Data Analysis - including Data Visualization, Decision Trees, Random Forest, Bagging, Boosting (AdaBoost, Gradient Boost XGBoost), model tuning, metric analysis
